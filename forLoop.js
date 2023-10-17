@@ -1,4 +1,4 @@
-import { companies, ages } from './data.js';
+import { companies } from './data.js';
 
 // For loop
 
