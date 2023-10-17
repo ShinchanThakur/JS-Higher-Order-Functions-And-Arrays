@@ -9,6 +9,7 @@ This is theory and practice of JS Higher Order Functions and Arrays.
 3. filter
 4. reduce
 5. sort
+6. forLoop
 
 ## Credits
 
